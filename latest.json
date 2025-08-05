@@ -19,6 +19,15 @@
       "available_to": "2025-08-06"
     },
     {
+      "title": "Barro GT",
+      "platform": "PC",
+      "genre": "Racing,",
+      "year": "2022",
+      "store": "Steam",
+      "available_from": "2025-07-28",
+      "available_to": "2025-08-04"
+    },
+    {
       "title": "War of the Human Tanks",
       "platform": "PC",
       "genre": "Strategy,",
@@ -80,9 +89,126 @@
       "store": "Unknown",
       "available_from": "2025-08-05",
       "available_to": null
+    },
+    {
+      "title": "112 Operator",
+      "platform": "PC",
+      "genre": "Strategy,",
+      "year": "2020",
+      "store": "Epic Games Store",
+      "available_from": "2025-08-07",
+      "available_to": "2025-08-13"
+    },
+    {
+      "title": "Road Redemption",
+      "platform": "PC",
+      "genre": "Vehicle Combat Sim,",
+      "year": "2017",
+      "store": "Epic Games Store",
+      "available_from": "2025-08-07",
+      "available_to": "2025-08-13"
+    },
+    {
+      "title": "Delta Force",
+      "platform": "PS5/XBX",
+      "genre": "FPS,",
+      "year": "2025",
+      "store": "Unknown",
+      "available_from": "2025-08-19",
+      "available_to": null
+    },
+    {
+      "title": "Destiny: Rising",
+      "platform": "MOBILE",
+      "genre": "FPS/RPG,",
+      "year": "2025",
+      "store": "Apple",
+      "available_from": "2025-08-28",
+      "available_to": null
+    },
+    {
+      "title": "Football Heroes League",
+      "platform": "PC/PS5/PS4/XBX/XB1/NS",
+      "genre": "Sports,",
+      "year": "2025",
+      "store": "Unknown",
+      "available_from": "2025-09-16",
+      "available_to": null
     }
   ],
   "Humble Choice": [
+    {
+      "title": "Blanc",
+      "platform": "PC",
+      "genre": "Adventure,",
+      "year": "2023",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Cat Quest III",
+      "platform": "PC",
+      "genre": "Action/RPG,",
+      "year": "2024",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Daemon x Machina",
+      "platform": "PC",
+      "genre": "Vehicle Combat Sim,",
+      "year": "2019",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Death's Door",
+      "platform": "PC",
+      "genre": "Action-Adventure,",
+      "year": "2021",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Everafter Falls",
+      "platform": "PC",
+      "genre": "Virtual Life,",
+      "year": "2024",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Neo Cab",
+      "platform": "PC",
+      "genre": "Adventure,",
+      "year": "2019",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Warhammer 40,000 Rogue Trader",
+      "platform": "PC",
+      "genre": "RPG,",
+      "year": "2023",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Wizard With a Gun",
+      "platform": "PC",
+      "genre": "Sandbox/Survival,",
+      "year": "2023",
+      "store": "Humble Bundle",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
     {
       "title": "Grounded 2",
       "platform": "PC",
@@ -226,6 +352,51 @@
       "store": "Humble Bundle",
       "available_from": "2025-08-01",
       "available_to": null
+    },
+    {
+      "title": "Senua's Saga: Hellblade II Enhanced",
+      "platform": "PC",
+      "genre": "Action-Adventure,",
+      "year": "2025",
+      "store": "Humble Bundle",
+      "available_from": "2025-08-12",
+      "available_to": null
+    },
+    {
+      "title": "Gears of War: Reloaded",
+      "platform": "PC",
+      "genre": "Remaster/Shooter,",
+      "year": "2025",
+      "store": "Humble Bundle",
+      "available_from": "2025-08-26",
+      "available_to": null
+    },
+    {
+      "title": "Keeper",
+      "platform": "PC",
+      "genre": "Puzzle/Adventure,",
+      "year": "2025",
+      "store": "Humble Bundle",
+      "available_from": "2025-10-17",
+      "available_to": null
+    },
+    {
+      "title": "Ninja Gaiden 4",
+      "platform": "PC",
+      "genre": "Action-Adventure,",
+      "year": "2025",
+      "store": "Humble Bundle",
+      "available_from": "2025-10-21",
+      "available_to": null
+    },
+    {
+      "title": "The Outer Worlds 2",
+      "platform": "PC",
+      "genre": "Action/RPG,",
+      "year": "2025",
+      "store": "Humble Bundle",
+      "available_from": "2025-10-29",
+      "available_to": null
     }
   ],
   "PlayStation Plus": [
@@ -320,6 +491,33 @@
       "available_to": null
     },
     {
+      "title": "Diablo IV",
+      "platform": "PS5/PS4",
+      "genre": "Action/RPG,",
+      "year": "2023",
+      "store": "PlayStation Store",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "Jusant",
+      "platform": "PS5/PS4",
+      "genre": "Action-Adventure,",
+      "year": "2023",
+      "store": "PlayStation Store",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
+      "title": "The King of Fighters XV",
+      "platform": "PS5/PS4",
+      "genre": "Fighting,",
+      "year": "2022",
+      "store": "PlayStation Store",
+      "available_from": "2025-07-01",
+      "available_to": "2025-08-04"
+    },
+    {
       "title": "DayZ",
       "platform": "PS4",
       "genre": "Survival Horror,",
@@ -345,6 +543,15 @@
       "store": "PlayStation Store",
       "available_from": "2025-08-05",
       "available_to": "2025-09-01"
+    },
+    {
+      "title": "Sword of the Sea",
+      "platform": "PS5",
+      "genre": "Action-Adventure,",
+      "year": "2025",
+      "store": "PlayStation Store",
+      "available_from": "2025-08-19",
+      "available_to": null
     }
   ],
   "Prime Gaming": [
@@ -455,6 +662,15 @@
       "store": "Amazon",
       "available_from": "2025-06-17",
       "available_to": "2025-08-18"
+    },
+    {
+      "title": "Tomb Raider I",
+      "platform": "PC",
+      "genre": "III Remastered Compilation,",
+      "year": "2024",
+      "store": "Amazon",
+      "available_from": "2025-06-17",
+      "available_to": "2025-08-01"
     },
     {
       "title": "TOEM",
@@ -661,6 +877,60 @@
       "year": "2024",
       "store": "Amazon",
       "available_from": "2025-08-01",
+      "available_to": null
+    },
+    {
+      "title": "Senua's Saga: Hellblade II Enhanced",
+      "platform": "XBX",
+      "genre": "Action-Adventure,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-08-12",
+      "available_to": null
+    },
+    {
+      "title": "Gears of War: Reloaded",
+      "platform": "XBX",
+      "genre": "Remaster/Shooter,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-08-26",
+      "available_to": null
+    },
+    {
+      "title": "Frostpunk 2",
+      "platform": "XBX",
+      "genre": "Strategy/City Builder/Survival,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-09-18",
+      "available_to": null
+    },
+    {
+      "title": "Keeper",
+      "platform": "XBX",
+      "genre": "Puzzle/Adventure,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-10-17",
+      "available_to": null
+    },
+    {
+      "title": "Ninja Gaiden 4",
+      "platform": "XBX",
+      "genre": "Action-Adventure,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-10-21",
+      "available_to": null
+    },
+    {
+      "title": "The Outer Worlds 2",
+      "platform": "XBX",
+      "genre": "Action/RPG,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-10-29",
       "available_to": null
     }
   ]
