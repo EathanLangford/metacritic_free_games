@@ -1,6 +1,33 @@
 {
   "Free for everyone": [
     {
+      "title": "Guntouchables",
+      "platform": "PC",
+      "genre": "Action/Roguelike,",
+      "year": "2025",
+      "store": "Steam",
+      "available_from": "2025-08-07",
+      "available_to": "2025-08-08"
+    },
+    {
+      "title": "112 Operator",
+      "platform": "PC/MOBILE",
+      "genre": "Strategy,",
+      "year": "2020",
+      "store": "Epic Games Store",
+      "available_from": "2025-08-07",
+      "available_to": "2025-08-13"
+    },
+    {
+      "title": "Road Redemption",
+      "platform": "PC",
+      "genre": "Vehicle Combat Sim,",
+      "year": "2017",
+      "store": "Epic Games Store",
+      "available_from": "2025-08-07",
+      "available_to": "2025-08-13"
+    },
+    {
       "title": "Apex Legends",
       "platform": null,
       "genre": "NS2 Hero Shooter,",
@@ -17,24 +44,6 @@
       "store": "IndieGala",
       "available_from": "2025-08-01",
       "available_to": null
-    },
-    {
-      "title": "Keylocker",
-      "platform": "PC",
-      "genre": "Rhythm RPG,",
-      "year": "2024",
-      "store": "Epic Games Store",
-      "available_from": "2025-07-31",
-      "available_to": "2025-08-06"
-    },
-    {
-      "title": "Pilgrims",
-      "platform": "PC/MOBILE",
-      "genre": "Adventure,",
-      "year": "2019",
-      "store": "Epic Games Store",
-      "available_from": "2025-07-31",
-      "available_to": "2025-08-06"
     },
     {
       "title": "War of the Human Tanks",
@@ -73,31 +82,22 @@
       "available_to": null
     },
     {
-      "title": "DC Worlds Collide",
-      "platform": "MOBILE",
-      "genre": "RPG,",
-      "year": "2025",
-      "store": "Apple",
-      "available_from": "2025-07-07",
-      "available_to": null
-    },
-    {
-      "title": "112 Operator",
+      "title": "Hidden Folks",
       "platform": "PC",
-      "genre": "Strategy,",
-      "year": "2020",
-      "store": "Epic Games Store",
-      "available_from": "2025-08-07",
-      "available_to": "2025-08-13"
-    },
-    {
-      "title": "Road Redemption",
-      "platform": "PC",
-      "genre": "Vehicle Combat Sim,",
+      "genre": "Hidden Object,",
       "year": "2017",
       "store": "Epic Games Store",
-      "available_from": "2025-08-07",
-      "available_to": "2025-08-13"
+      "available_from": "2025-08-14",
+      "available_to": "2025-08-20"
+    },
+    {
+      "title": "Totally Reliable Delivery Service",
+      "platform": "PC",
+      "genre": "Open-World Action,",
+      "year": "2021",
+      "store": "Epic Games Store",
+      "available_from": "2025-08-14",
+      "available_to": "2025-08-20"
     },
     {
       "title": "Delta Force",
@@ -115,6 +115,15 @@
       "year": "2025",
       "store": "Apple",
       "available_from": "2025-08-28",
+      "available_to": null
+    },
+    {
+      "title": "Kaiju No. 8 The Game",
+      "platform": "PC/MOBILE",
+      "genre": "RPG,",
+      "year": "2025",
+      "store": "Steam",
+      "available_from": "2025-08-31",
       "available_to": null
     },
     {
@@ -199,6 +208,15 @@
       "store": "Humble Bundle",
       "available_from": "2025-08-05",
       "available_to": "2025-09-01"
+    },
+    {
+      "title": "Assassin's Creed Mirage",
+      "platform": "PC",
+      "genre": "Open-World Action,",
+      "year": "2023",
+      "store": "Humble Bundle",
+      "available_from": "2025-08-07",
+      "available_to": null
     },
     {
       "title": "Rain World",
@@ -333,15 +351,6 @@
       "year": "2021",
       "store": "Humble Bundle",
       "available_from": "2025-07-08",
-      "available_to": null
-    },
-    {
-      "title": "Assassin's Creed Mirage",
-      "platform": "PC",
-      "genre": "Open-World Action,",
-      "year": "2023",
-      "store": "Humble Bundle",
-      "available_from": "2025-08-07",
       "available_to": null
     },
     {
@@ -538,6 +547,24 @@
   ],
   "Prime Gaming": [
     {
+      "title": "Civilization 3",
+      "platform": "PC",
+      "genre": "Complete Ed. 4X Strategy,",
+      "year": "2001",
+      "store": "Amazon",
+      "available_from": "2025-08-07",
+      "available_to": "2025-11-05"
+    },
+    {
+      "title": "Thief",
+      "platform": "PC",
+      "genre": "Def. Ed. Action-Adventure,",
+      "year": "2014",
+      "store": "Amazon",
+      "available_from": "2025-08-07",
+      "available_to": "2025-09-10"
+    },
+    {
       "title": "Heroes of Loot",
       "platform": "PC",
       "genre": "Action/RPG,",
@@ -682,13 +709,139 @@
       "available_to": "2025-08-27"
     },
     {
-      "title": "Doors",
+      "title": "The Academy: The First Riddle",
       "platform": "PC",
-      "genre": "- Paradox Puzzle,",
+      "genre": "Adventure,",
+      "year": "2020",
+      "store": "Amazon",
+      "available_from": "2025-08-14",
+      "available_to": null
+    },
+    {
+      "title": "Fate: The Traitor Soul",
+      "platform": "PC",
+      "genre": "Action/RPG,",
+      "year": "2009",
+      "store": "Amazon",
+      "available_from": "2025-08-14",
+      "available_to": null
+    },
+    {
+      "title": "Filthy Animals: Heist Simulator",
+      "platform": "PC",
+      "genre": "Arcade,",
+      "year": "2023",
+      "store": "Amazon",
+      "available_from": "2025-08-14",
+      "available_to": null
+    },
+    {
+      "title": "Necroking",
+      "platform": "PC",
+      "genre": "Turn-Based Tactics,",
       "year": "2024",
       "store": "Amazon",
-      "available_from": "2025-05-08",
-      "available_to": "2025-08-06"
+      "available_from": "2025-08-14",
+      "available_to": null
+    },
+    {
+      "title": "Tin Hearts",
+      "platform": "PC",
+      "genre": "Action/Puzzle,",
+      "year": "2023",
+      "store": "Amazon",
+      "available_from": "2025-08-14",
+      "available_to": null
+    },
+    {
+      "title": "Labyrinth City: Pierre the Maze Detective",
+      "platform": "PC",
+      "genre": "Adventure/Puzzle,",
+      "year": "2021",
+      "store": "Amazon",
+      "available_from": "2025-08-21",
+      "available_to": null
+    },
+    {
+      "title": "Silver Box Classics",
+      "platform": "PC",
+      "genre": "Compilation,",
+      "year": "2023",
+      "store": "Amazon",
+      "available_from": "2025-08-21",
+      "available_to": null
+    },
+    {
+      "title": "City Legends: The Ghost of Misty Hill",
+      "platform": "PC",
+      "genre": "Collector's Ed. Hidden Object,",
+      "year": "2023",
+      "store": "Amazon",
+      "available_from": "2025-08-28",
+      "available_to": null
+    },
+    {
+      "title": "Fantasy Empires",
+      "platform": "PC",
+      "genre": "Strategy, 1994",
+      "year": null,
+      "store": "Amazon",
+      "available_from": "2025-08-28",
+      "available_to": null
+    },
+    {
+      "title": "Heroes of Loot 2",
+      "platform": "PC",
+      "genre": "Action/RPG,",
+      "year": "2016",
+      "store": "Amazon",
+      "available_from": "2025-08-28",
+      "available_to": null
+    },
+    {
+      "title": "Assassin's Creed Mirage",
+      "platform": "XBX/XB1",
+      "genre": "Open-World Action,",
+      "year": "2023",
+      "store": "Amazon",
+      "available_from": "2025-08-07",
+      "available_to": null
+    },
+    {
+      "title": "Citizen Sleeper 2: Starward Vector",
+      "platform": "XBX",
+      "genre": "new to Game Pass StandardRPG,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-08-06",
+      "available_to": null
+    },
+    {
+      "title": "Lonely Mountains: Snow Riders",
+      "platform": "XBX",
+      "genre": "new to Game Pass Standard Sports,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-08-06",
+      "available_to": null
+    },
+    {
+      "title": "MechWarrior 5: Clans",
+      "platform": "XBX",
+      "genre": "new to Game Pass Standard Vehicle Combat Sim,",
+      "year": "2024",
+      "store": "Amazon",
+      "available_from": "2025-08-06",
+      "available_to": null
+    },
+    {
+      "title": "Orcs Must Die! Deathtrap",
+      "platform": "XBX",
+      "genre": "new to Game Pass Standard Defense,",
+      "year": "2025",
+      "store": "Amazon",
+      "available_from": "2025-08-06",
+      "available_to": null
     },
     {
       "title": "Rain World",
@@ -814,51 +967,6 @@
       "year": "2021",
       "store": "Amazon",
       "available_from": "2025-07-08",
-      "available_to": null
-    },
-    {
-      "title": "Citizen Sleeper 2: Starward Vector",
-      "platform": "XBX",
-      "genre": "new to Game Pass StandardRPG,",
-      "year": "2025",
-      "store": "Amazon",
-      "available_from": "2025-08-06",
-      "available_to": null
-    },
-    {
-      "title": "Lonely Mountains: Snow Riders",
-      "platform": "XBX",
-      "genre": "new to Game Pass Standard Sports,",
-      "year": "2025",
-      "store": "Amazon",
-      "available_from": "2025-08-06",
-      "available_to": null
-    },
-    {
-      "title": "MechWarrior 5: Clans",
-      "platform": "XBX",
-      "genre": "new to Game Pass Standard Vehicle Combat Sim,",
-      "year": "2024",
-      "store": "Amazon",
-      "available_from": "2025-08-06",
-      "available_to": null
-    },
-    {
-      "title": "Orcs Must Die! Deathtrap",
-      "platform": "XBX",
-      "genre": "new to Game Pass Standard Defense,",
-      "year": "2025",
-      "store": "Amazon",
-      "available_from": "2025-08-06",
-      "available_to": null
-    },
-    {
-      "title": "Assassin's Creed Mirage",
-      "platform": "XBX/XB1",
-      "genre": "Open-World Action,",
-      "year": "2023",
-      "store": "Amazon",
-      "available_from": "2025-08-07",
       "available_to": null
     },
     {
